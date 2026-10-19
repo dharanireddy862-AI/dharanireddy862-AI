@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Dharani K! 👋
 
 I am a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning. I enjoy building data-driven applications, exploring neural networks, and writing clean, efficient code.
 
@@ -14,5 +14,4 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Ma
 - 🤝 I’m looking to collaborate on open-source AI/ML projects.
 
 ### 🔗 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
-- 📧 Email: [Your Professional Email]
+- 📧 Email: dharanireddy862@gmail.com

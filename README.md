@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**dharanireddy862-AI/dharanireddy862-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning. I enjoy building data-driven applications, exploring neural networks, and writing clean, efficient code.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, SQL
+- **Frameworks & Libraries:** NumPy, Pandas, Scikit-Learn, PyTorch
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Cloud Platform (GCP)
+- **Core Focus:** Data Structures & Algorithms, Machine Learning Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I'm Working On
+- 🔭 I’m currently solving DSA problems on LeetCode to improve my logic.
+- 🌱 I’m deep-diving into Computer Vision and Convolutional Neural Networks (CNNs).
+- 🤝 I’m looking to collaborate on open-source AI/ML projects.
+
+### 🔗 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 📧 Email: [Your Professional Email]
